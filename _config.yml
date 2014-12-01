@@ -1,0 +1,7 @@
+# Site settings
+title: Hobart Crossing
+baseurl: /hobart-crossing
+
+# Build settings
+markdown: kramdown
+permalink: pretty
