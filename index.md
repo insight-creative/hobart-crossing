@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-<img class="header-image" src="{{ site.baseurl }}/img/hobart-elevation-1.jpg">
-  
+<div class="header-image">
+<img src="{{ site.baseurl }}/img/hobart-elevation-1.jpg">
+</div>
 <div class="container">
   <div class="row">
     <div class="col-md-8">

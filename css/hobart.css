@@ -107,9 +107,14 @@ hr {
   transform: skew(-23deg);
   background-color: #B6A895;
   font-size: 1.15rem;
-  margin-left: 15px !important;
+  margin-left: 30px !important;
   line-height: 40px;
   height: 70px;
+}
+@media (min-width: 768px) {
+  .navbar-default .navbar-brand {
+    margin-left: 15px !important;
+  }
 }
 .navbar-default .navbar-brand:hover {
   background-color: #B6A895;
@@ -117,8 +122,8 @@ hr {
 .navbar-brand a {
   color: #FFF;
   display: block;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
   -webkit-transform: skew(23deg) !important;
   -ms-transform: skew(23deg) !important;
   transform: skew(23deg) !important;
@@ -129,7 +134,7 @@ hr {
  * Header Image
  */
 
-.header-image {
+.header-image img {
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -139,10 +144,15 @@ hr {
  */
 
 .card {
-  padding: 40px;
+  padding: 20px;
   margin-top: 25px;
   margin-bottom: 25px;
   background-color: #FFF;
+}
+@media (min-width: 768px) {
+  .card {
+    padding: 40px;
+  }
 }
 .card-button {
   display: block;
@@ -166,6 +176,9 @@ hr {
 .card-button-group {
   margin-top: 30px;
   margin-bottom: -40px;
+}
+.card-button-group a {
+  color: #FFF;
 }
 .card-button-group a:hover {
   background-color: #7B6D5C;
