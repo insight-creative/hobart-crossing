@@ -164,8 +164,17 @@ hr {
   padding-right: 25px;
   padding-top: 25px;
   padding-bottom: 25px;
-  margin-left: -40px;
-  margin-right: -40px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+@media (min-width: 768px) {
+  .card-button {
+    margin-left: -40px;
+    margin-right: -40px;
+  }
+  .card-button-group {
+    margin-bottom: -40px;
+  }
 }
 .card-button:active {
   background-image: none;
@@ -175,7 +184,7 @@ hr {
 }
 .card-button-group {
   margin-top: 30px;
-  margin-bottom: -40px;
+  margin-bottom: -20px;
 }
 .card-button-group a {
   color: #FFF;
