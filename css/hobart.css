@@ -172,9 +172,6 @@ hr {
     margin-left: -40px;
     margin-right: -40px;
   }
-  .card-button-group {
-    margin-bottom: -40px;
-  }
 }
 .card-button:active {
   background-image: none;
@@ -185,6 +182,11 @@ hr {
 .card-button-group {
   margin-top: 30px;
   margin-bottom: -20px;
+}
+@media (min-width: 768px) {
+  .card-button-group {
+    margin-bottom: -40px;
+  }
 }
 .card-button-group a {
   color: #FFF;
