@@ -8,7 +8,7 @@ layout: default
   <div class="row">
     <div class="col-md-8">
       <div class="card">
-        <h1 id="luxury_leased_residences">Luxury Leased Residences</h1>
+        <h1 id="luxury_leased_residences">Hobart Crossing—Luxury Leased Residences</h1>
         
         <p>Enjoy life at Hobart Crossing in Centennial Centre! Hobart Crossing features upscale amenities and a refined urban feel.</p>
         
@@ -40,7 +40,7 @@ layout: default
     <div class="col-md-4">
     
       <div class="card">
-        <h1>Contact</h1>
+        <h1>Contact Us</h1>
         <p>Pre-leasing begins April 2015 for occupancy August 2015.</p>
         
         <p><em>Don’t delay—units will fill fast!</em></p>
