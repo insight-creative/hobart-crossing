@@ -4,6 +4,23 @@ layout: default
 <div class="header-image">
 <img src="{{ site.baseurl }}/img/hobart-elevation-1.jpg">
 </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card">
+        <h1>Landing Page</h1>
+        <ul>
+          <li>Photos of apartment buildings</li>
+          <li>Contact and location info/link</li>
+          <li>Most recent news posts</li>
+          <li>Link to community page</li>
+          <li>Link to apartments page</li>
+      </div>
+    </div>
+  </div>
+</div>
+<!--
 <div class="container">
   <div class="row">
     <div class="col-md-8">
@@ -53,5 +70,5 @@ layout: default
     
     </div>
   </div>
-</div>
+</div>-->
 

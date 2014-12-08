@@ -22,7 +22,6 @@ body {
   color: #333;
   background-color: #F4F0EB;
   margin-top: 70px;
-  margin-bottom: 50px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -95,11 +94,21 @@ hr {
 
 /*
  * Navigation
- */
+*/
 
 .navbar-default {
   background-color: rgba(255,255,255,.95);
   border: 0px;
+}
+.navbar-default .navbar-nav li {
+  height: 70px;
+  margin-bottom: 0px;
+}
+.navbar-default .navbar-nav li a {
+  border-bottom: 0px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  display: block;
 }
 .navbar-default .navbar-brand {
   -webkit-transform: skew(-23deg);
@@ -195,4 +204,20 @@ hr {
   background-color: #7B6D5C;
   color: #FFF;
   text-decoration: none;
+}
+
+/*
+ * Footer
+ */
+
+footer {
+  min-height: 200px;
+  background-color: #B6A895;
+  color: #FFF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+footer ul {
+  list-style: none;
+  padding: 0px;
 }
