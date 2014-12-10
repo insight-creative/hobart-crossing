@@ -4,4 +4,4 @@ layout: page
 
 # News
 
-* Blog posts about construction updates and other announcements
+* A blog feed about construction updates, community news, and other announcements
