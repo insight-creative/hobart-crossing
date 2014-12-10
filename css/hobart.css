@@ -21,7 +21,7 @@ body {
 	line-height: 1.35;
   color: #333;
   background-color: #F4F0EB;
-  margin-top: 70px;
+  margin-top: 85px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -32,10 +32,6 @@ img {
   margin-bottom: 1rem;
   vertical-align: middle;
 }
-
-/*
- * The Grid
- */
 
 /*
  * Typography
@@ -52,7 +48,7 @@ h4,
 h5,
 h6 {
   font-family: "ff-tisa-web-pro", serif;
-  color: #7B6D5C;
+  color: #6b3f22;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-size: 1rem;
@@ -101,42 +97,58 @@ hr {
   border: 0px;
 }
 .navbar-default .navbar-nav li {
-  height: 70px;
   margin-bottom: 0px;
 }
+@media (min-width: 768px) {
+  .navbar-default .navbar-nav {
+    padding-top: 15px;
+  }
+}
 .navbar-default .navbar-nav li a {
+  color: #999;
   border-bottom: 0px;
-  padding-top: 24px;
-  padding-bottom: 24px;
   display: block;
+  transition: all .5s;
+}
+.navbar-default .navbar-nav li a:hover {
+  color: #6b3f22;
+  transition: all .5s;
 }
 .navbar-default .navbar-brand {
   -webkit-transform: skew(-23deg);
   -ms-transform: skew(-23deg);
   transform: skew(-23deg);
-  background-color: #B6A895;
+  background-color: #6b3f22;
   font-size: 1.15rem;
   margin-left: 30px !important;
   line-height: 40px;
-  height: 70px;
+  height: 85px;
 }
 @media (min-width: 768px) {
   .navbar-default .navbar-brand {
-    margin-left: 15px !important;
+    margin-left: 18px !important;
   }
 }
 .navbar-default .navbar-brand:hover {
-  background-color: #B6A895;
+  background-color: #6b3f22;
+}
+.navbar-default .navbar-brand img {
+  max-width: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 .navbar-brand a {
-  color: #FFF;
   display: block;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 15px;
+  margin-right: 20px;
   -webkit-transform: skew(23deg) !important;
   -ms-transform: skew(23deg) !important;
   transform: skew(23deg) !important;
   text-decoration: none;
+  border-bottom: 0px;
+}
+.navbar-toggle {
+  margin-top: 25px;
 }
 
 /*
@@ -201,7 +213,7 @@ hr {
   color: #FFF;
 }
 .card-button-group a:hover {
-  background-color: #7B6D5C;
+  background-color: #6b3f22;
   color: #FFF;
   text-decoration: none;
 }
