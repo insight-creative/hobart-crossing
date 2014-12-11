@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: blog
+title: News
 ---
 
-# News
-
-* A blog feed about construction updates, community news, and other announcements
+# Latest News

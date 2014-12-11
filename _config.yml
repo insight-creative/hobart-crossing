@@ -4,4 +4,4 @@ baseurl: /hobart-crossing
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none

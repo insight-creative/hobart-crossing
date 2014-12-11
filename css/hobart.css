@@ -32,6 +32,10 @@ img {
   margin-bottom: 1rem;
   vertical-align: middle;
 }
+/* Helper class to center a set of columns horizontally */
+.center-block {
+  float: none;
+}
 
 /*
  * Typography
@@ -61,11 +65,12 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-	color: #333;
-  border-bottom: 2px solid #B6A895;
+  color: #6b3f22;
+  border-bottom: 2px solid #6b3f22;
 }
 a:hover {
   color: #B6A895;
+  border-bottom: 2px solid #B6A895;
   text-decoration: none;
 }
 ol li,
@@ -175,10 +180,15 @@ hr {
     padding: 40px;
   }
 }
+
+/*
+ * Buttons
+ */
+
 .card-button {
   display: block;
   font-size: .85rem;
-  background-color: #B6A895;
+  background-color: #6b3f22;
   border-top: 1px solid #FFF;
   color: #FFF;
   padding-left: 40px;
@@ -211,11 +221,23 @@ hr {
 }
 .card-button-group a {
   color: #FFF;
+  border-bottom: 0px;
+  transition: all .3s;
 }
 .card-button-group a:hover {
-  background-color: #6b3f22;
+  background-color: #B6A895;
   color: #FFF;
   text-decoration: none;
+  transition: all .3s;
+}
+
+/*
+ * Post
+ */
+
+.post-meta {
+  color: #B6A895;
+  font-size: .8rem;
 }
 
 /*
@@ -226,10 +248,30 @@ footer {
   min-height: 200px;
   background-color: #B6A895;
   color: #FFF;
+  margin-top: 40px;
   padding-top: 40px;
   padding-bottom: 40px;
 }
 footer ul {
   list-style: none;
   padding: 0px;
+}
+footer a {
+  color: #FFF;
+  border-bottom: 0px;
+  transition: all .3s;
+}
+footer a:hover {
+  color: #FFF;
+  opacity: .5;
+  border-bottom: 0px;
+  transition: all .3s;
+}
+footer h2 {
+  color: #FFF;
+  margin-top: 1rem;
+}
+.footer-logo {
+  max-width: 200px;
+  opacity: .5;
 }
