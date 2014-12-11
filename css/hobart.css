@@ -1,4 +1,12 @@
 /*
+
+Mid-brown: #B6A895
+Dark brown: #6b3f22
+Light brown: #F4F0EB
+
+*/
+
+/*
  * Global
  */
 
@@ -18,9 +26,9 @@ html {
 body {
 	font-size: 1em;
   font-family: "ff-tisa-sans-web-pro", sans-serif;
-	line-height: 1.35;
+	line-height: 1.4;
   color: #333;
-  background-color: #F4F0EB;
+  background-color: #E7E7E7;
   margin-top: 85px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -52,7 +60,7 @@ h4,
 h5,
 h6 {
   font-family: "ff-tisa-web-pro", serif;
-  color: #6b3f22;
+  color: #7E7E7E;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-size: 1rem;
@@ -65,13 +73,15 @@ h2 {
   font-size: 1.1rem;
 }
 a {
-  color: #6b3f22;
-  border-bottom: 2px solid #6b3f22;
+  color: #7E7E7E;
+  border-bottom: 2px solid #7E7E7E;
+  transition: all .3s;
 }
 a:hover {
-  color: #B6A895;
-  border-bottom: 2px solid #B6A895;
+  color: #9B9B9B;
+  border-bottom: 2px solid #9B9B9B;
   text-decoration: none;
+  transition: all .3s;
 }
 ol li,
 ul li {
@@ -113,17 +123,15 @@ hr {
   color: #999;
   border-bottom: 0px;
   display: block;
-  transition: all .5s;
 }
 .navbar-default .navbar-nav li a:hover {
-  color: #6b3f22;
-  transition: all .5s;
+  color: #7E7E7E;
 }
 .navbar-default .navbar-brand {
   -webkit-transform: skew(-23deg);
   -ms-transform: skew(-23deg);
   transform: skew(-23deg);
-  background-color: #6b3f22;
+  background-color: #7E7E7E;
   font-size: 1.15rem;
   margin-left: 30px !important;
   line-height: 40px;
@@ -135,7 +143,7 @@ hr {
   }
 }
 .navbar-default .navbar-brand:hover {
-  background-color: #6b3f22;
+  background-color: #7E7E7E;
 }
 .navbar-default .navbar-brand img {
   max-width: 100px;
@@ -188,7 +196,7 @@ hr {
 .card-button {
   display: block;
   font-size: .85rem;
-  background-color: #6b3f22;
+  background-color: #7E7E7E;
   border-top: 1px solid #FFF;
   color: #FFF;
   padding-left: 40px;
@@ -222,21 +230,22 @@ hr {
 .card-button-group a {
   color: #FFF;
   border-bottom: 0px;
-  transition: all .3s;
 }
 .card-button-group a:hover {
-  background-color: #B6A895;
+  background-color: #9B9B9B;
   color: #FFF;
   text-decoration: none;
-  transition: all .3s;
 }
 
 /*
  * Post
  */
 
+.post .post-title {
+  border-bottom: 0px;
+}
 .post-meta {
-  color: #B6A895;
+  color: #9B9B9B;
   font-size: .8rem;
 }
 
@@ -246,7 +255,7 @@ hr {
 
 footer {
   min-height: 200px;
-  background-color: #B6A895;
+  background-color: #9B9B9B;
   color: #FFF;
   margin-top: 40px;
   padding-top: 40px;
@@ -259,13 +268,11 @@ footer ul {
 footer a {
   color: #FFF;
   border-bottom: 0px;
-  transition: all .3s;
 }
 footer a:hover {
   color: #FFF;
   opacity: .5;
   border-bottom: 0px;
-  transition: all .3s;
 }
 footer h2 {
   color: #FFF;

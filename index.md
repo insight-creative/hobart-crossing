@@ -32,30 +32,46 @@ layout: default
       </div>
     </div>
   </div>
+  
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-6">
       <div class="card">
         <h1>Apartments</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
+        <div class="card-button-group">
+          <a class="card-button" href="{{ post.url }}">Learn more &raquo;</a>
+        </div>
       </div>
     </div>
     
-    <div class="col-md-4">
+    <div class="col-md-6">
       <div class="card">
         <h1>Community</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
-      </div>
-    </div>
-    
-    <div class="col-md-4">
-      <div class="card">
-        <h1>Latest News</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
+        <div class="card-button-group">
+          <a class="card-button" href="{{ post.url }}">Learn more &raquo;</a>
+        </div>
       </div>
     </div>
   </div>
+  
   <div class="row">
-    <div class="col-md-8 center-block">
+    <div class="col-md-6">
+      <div class="card">
+        <h1>Latest News</h1>
+        {% for post in site.posts | limit: 1 %}
+        <div class="post">
+          <h2><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.content | truncatewords: 15 }}</p><!-- weird Jekyll glitch, closing p tag required -->
+          <div class="card-button-group">
+            <a class="card-button" href="{{ post.url }}">Continue reading &raquo;</a>
+            <a class="card-button" href="{{ site.baseurl }}/news">See all news &raquo;</a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
       <div class="card">
         <h1>Contact Us</h1>
         <p>Pre-leasing begins April 2015 for occupancy August 2015.</p>
