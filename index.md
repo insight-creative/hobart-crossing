@@ -24,11 +24,11 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-md-9 center-block">
+    <div class="col-md-10 center-block">
       <div class="card header-card">
-        <h1>Hobart Crossing—Luxury Leased Residences</h1>
+        <h1>Hobart Crossing—Luxury Leased&nbsp;Residences</h1>
 
-        <p>Enjoy life at Hobart Crossing in Centennial Centre! Hobart Crossing features upscale amenities and a refined urban feel.</p>
+        <p>Enjoy life at Hobart Crossing in Centennial Centre! Hobart Crossing features upscale amenities and a refined&nbsp;urban&nbsp;feel.</p>
       </div>
     </div>
   </div>
