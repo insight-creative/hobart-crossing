@@ -39,7 +39,7 @@ layout: default
         <h1>Apartments</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
         <div class="card-button-group">
-          <a class="card-button" href="{{ post.url }}">Learn more &raquo;</a>
+          <a class="card-button" href="{{ site.baseurl }}/apartments">Learn more &raquo;</a>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@ layout: default
         <h1>Community</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
         <div class="card-button-group">
-          <a class="card-button" href="{{ post.url }}">Learn more &raquo;</a>
+          <a class="card-button" href="{{ site.baseurl }}/community">Learn more &raquo;</a>
         </div>
       </div>
     </div>
