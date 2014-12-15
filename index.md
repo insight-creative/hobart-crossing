@@ -5,30 +5,17 @@ layout: default
 <img src="{{ site.baseurl }}/img/hobart-elevation-1.jpg">
 </div>
 
-<!--
 <div class="container">
   <div class="row">
-    <div class="col-md-8 center-block">
-      <div class="card">
-        <h1>Landing Page</h1>
-        <ul>
-          <li>Header image</li>
-          <li>Link to apartments page</li>
-          <li>Link to community page</li>
-          <li>Most recent news posts</li>
-          <li>Call to action to contact with link to contact page</li>
-      </div>
-    </div>
-  </div>
-</div>-->
-
-<div class="container">
-  <div class="row">
-    <div class="col-md-10 center-block">
+    <div class="col-md-9 center-block">
       <div class="card header-card">
-        <h1>Hobart Crossing—Luxury Leased&nbsp;Residences</h1>
+        <h1>Welcome Home to Hobart Crossing!</h1>
+        
+        <h2>Luxury leased residences available August 2015 ...</h2>
 
-        <p>Enjoy life at Hobart Crossing in Centennial Centre! Hobart Crossing features upscale amenities and a refined&nbsp;urban&nbsp;feel.</p>
+        <p>There’s an exciting new place to call home in the greater Green Bay area. Beginning August 2015 the area’s newest upscale leased residences, Hobart Crossing, will be ready for occupancy. With a convenient location, unmatched amenities and variety of floor plans, Hobart Crossing has been designed to meet the needs of young professionals or empty nesters interested in luxurious, maintenance-free <a href="{{ site.baseurl }}/apartments">apartments</a> in a beautiful environment.</p>
+
+        <p>Take a few minutes to browse our site and see all the advantages of life at Hobart Crossing! Then <a href="{{ site.baseurl }}/contact">contact us</a> with questions or for leasing details.</p>
       </div>
     </div>
   </div>
@@ -36,8 +23,11 @@ layout: default
   <div class="row">
     <div class="col-md-6">
       <div class="card">
+        <div class="card-header">
+          <img src="holder.js/100%x150/text:Photo">
+        </div>
         <h1>Apartments</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
+        <p>Experience life with more upscale amenities, serene surroundings and convenience than ever before. Each Hobart Crossing apartment home brings a refined urban feel to the area.</p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/apartments">Learn more &raquo;</a>
         </div>
@@ -46,8 +36,11 @@ layout: default
     
     <div class="col-md-6">
       <div class="card">
+        <div class="card-header">
+          <img src="holder.js/100%x150/text:Photo">
+        </div>
         <h1>Community</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis justo eget magna vehicula molestie. Sed porta feugiat lacus ut ultrices.</p>
+        <p>Hobart Crossing is located in <a href="http://buildinhobart.com">Centennial Centre at Hobart</a>, a planned community bringing an upscale presence to the gorgeous countryside just minutes west of Green Bay.</p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/community">Learn more &raquo;</a>
         </div>
@@ -74,10 +67,6 @@ layout: default
     <div class="col-md-6">
       <div class="card">
         <h1>Contact Us</h1>
-        <p>Pre-leasing begins April 2015 for occupancy August 2015.</p>
-
-        <p><em>Don’t delay—units will fill fast!</em></p>
-
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
           <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;info@HobartCrossing.com</a>

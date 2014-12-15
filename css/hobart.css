@@ -189,21 +189,55 @@ hr {
     padding: 40px;
   }
 }
+.card .card-header {
+  margin-top: -20px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+@media (min-width: 768px) {
+  .card .card-header {
+    margin-top: -40px;
+    margin-left: -40px;
+    margin-right: -40px;
+  }
+}
+.card .card-header img {
+  margin-top: 0px;
+  border: 5px solid #FFF;
+}
+
+/*
+ * Header Card
+ */
+
 .header-card {
-  font-size: 1.2rem;
-  text-align: center;
   background-color: initial;
   padding-top: 1.25rem;
   padding-bottom: .1rem;
 }
 .header-card h1 {
+  text-align: center;
   font-size: 1.75rem;
+}
+.header-card h2 {
+  text-align: center;
+  font-size: 1.35rem;
 }
 
 /*
  * Buttons
  */
 
+.btn-primary {
+  background-color: #B6A895;
+  border-color: #B6A895;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #6b3f22;
+  border-color: #6b3f22;
+}
 .card-button {
   display: block;
   font-size: .85rem;
@@ -258,6 +292,32 @@ hr {
 .post-meta {
   color: #B6A895;
   font-size: .8rem;
+}
+
+/*
+ * Thumbnails
+ */
+
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active {
+  border-color: #B6A895;
+}
+.thumbnail:hover {
+  border-bottom: 1px solid #ddd;
+}
+.thumbnail img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+/*
+ * Form
+ */
+
+label {
+  font-weight: 300;
+  font-size: .85rem;
 }
 
 /*

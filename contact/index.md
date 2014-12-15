@@ -8,12 +8,22 @@ title: Contact
     <div class="col-md-8">
       
       <div class="card">
-        <h1>Contact</h1>
-        <ul>
-          <li>Contact form</li>
-          <li>Location information</li>
-          <li>Other contact information</li>
-        </ul>
+        <h1>Contact Us</h1>
+        <form role="form">
+          <div class="form-group">
+            <label for="exampleInputEmail1">Name</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
+          </div>
+          <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+          </div>
+          <div class="form-group">
+            <label>Message</label>
+            <textarea class="form-control" placeholder="Enter message" rows="3"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
       </div>
 
       <div>
@@ -25,15 +35,13 @@ title: Contact
     <div class="col-md-4">
       
       <div class="card">
-        <h1>Contact Us</h1>
+        <h1>Don't Delay—units will fill fast!</h1>
         <p>Pre-leasing begins April 2015 for occupancy August 2015.</p>
-        <p><em>Don’t delay—units will fill fast!</em></p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
           <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;info@HobartCrossing.com</a>
         </div>
       </div>
-      
     </div>
   </div>
 </div>

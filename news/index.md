@@ -3,4 +3,4 @@ layout: blog
 title: News
 ---
 
-# Latest News
+# Up-To-Date News and Information
