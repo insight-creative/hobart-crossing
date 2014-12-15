@@ -54,10 +54,10 @@ layout: default
         <h1>Latest News</h1>
         {% for post in site.posts | limit: 1 %}
         <div class="post">
-          <h2><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></h2>
+          <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
           {{ post.content | truncatewords: 15 }}</p><!-- weird Jekyll glitch, closing p tag required -->
           <div class="card-button-group">
-            <a class="card-button" href="{{ post.url }}">Continue reading &raquo;</a>
+            <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
             <a class="card-button" href="{{ site.baseurl }}/news">See all news &raquo;</a>
           </div>
           {% endfor %}

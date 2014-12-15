@@ -16,11 +16,11 @@ layout: default
     {% for post in site.posts %}
     <div class="col-md-8 center-block">
       <div class="card post">
-        <h1><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></h1>
+        <h1><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         <p>{{ post.content | truncatewords: 30 }}</p>
         <div class="card-button-group">
-          <a class="card-button" href="{{ post.url }}">Continue reading &raquo;</a>
+          <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
         </div>
       </div>
     </div>
