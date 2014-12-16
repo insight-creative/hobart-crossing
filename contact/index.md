@@ -36,7 +36,7 @@ title: Contact
       
       <div class="card">
         <h1>Don't Delay—units will fill fast!</h1>
-        <p>Pre-leasing begins April 2015 for occupancy August 2015.</p>
+        <p>Pre-leasing begins January 2015 for occupancy August 2015.</p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
           <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;info@HobartCrossing.com</a>

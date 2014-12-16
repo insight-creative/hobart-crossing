@@ -116,7 +116,7 @@ hr {
   margin-bottom: 0px;
 }
 @media (min-width: 768px) {
-  .navbar-default .navbar-nav {
+  .navbar-default .navbar-collapse {
     padding-top: 15px;
   }
 }
@@ -163,6 +163,10 @@ hr {
 }
 .navbar-toggle {
   margin-top: 25px;
+}
+.navbar-btn {
+  margin-left: 12px;
+  font-weight: 600;
 }
 
 /*
@@ -231,12 +235,17 @@ hr {
 .btn-primary {
   background-color: #B6A895;
   border-color: #B6A895;
+  border-bottom: 2px solid rgba(0,0,0,.4);
+  box-shadow: 0px 2px 1px rgba(0, 81, 123, .2);
+  transition: all .3s;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
   background-color: #6b3f22;
   border-color: #6b3f22;
+  box-shadow: none;
+  transition: all .3s;
 }
 .card-button {
   display: block;
