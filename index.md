@@ -37,7 +37,7 @@ layout: default
     <div class="col-md-6">
       <div class="card">
         <div class="card-header">
-          <img src="holder.js/100%x150/text:Photo">
+          <img src="{{ site.baseurl }}/img/community-header.jpg">
         </div>
         <h1>Community</h1>
         <p>Hobart Crossing is located in <a href="http://buildinhobart.com">Centennial Centre at Hobart</a>, a planned community bringing an upscale presence to the gorgeous countryside just minutes west of Green Bay.</p>

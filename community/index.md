@@ -12,15 +12,37 @@ title: Community
     </div>
     <div class="col-md-12">
       <div class="card">
-        <h1>Get to know Centennial Centre at&nbsp;Hobart&nbsp;&#8230;</h1>
-        <img src="{{ site.baseurl }}/img/centennial-centre.jpg">
         <div class="row">
-          <div class="col-md-8">
+          <div class="col-md-12">
+            <h1>Get to know Centennial Centre at&nbsp;Hobart&nbsp;&#8230;</h1>
+            <img src="{{ site.baseurl }}/img/centennial-centre.jpg">
+          </div>
+          <div class="col-md-6">
             <p><a href="http://buildinhobart.com">Centennial Centre</a> is the area’s newest premier luxury community. At Centennial Centre a three-acre village green, lush landscaping and pedestrian-friendly pathways will connect homes, stores, restaurants, professional services and more! </p>
             
             <p>Centennial Centre is the ideal mid-point to join community activities in Green Bay, Hobart or Pulaski. Attend events at the Weidner Center on the UWGB campus &#8230; take part in Village of Hobart activities &#8230; or join a community or professional organization in Pulaski—it’s all close to Centennial Centre.  Additionally, Centennial Centre is located in the well-regarded Pulaski school district and daycare is nearby. </p>
             
             <p>With a new diamond interchange at its eastern side and improved access to STH 29, Centennial Centre is the most conveniently located development west of Green Bay.</p>
+          </div>
+          <div class="col-md-6">
+            <div class="col-xs-6">
+              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+            </div>
+            <div class="col-xs-6">
+              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+            </div>
+            <div class="col-xs-6">
+              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+            </div>
+            <div class="col-xs-6">
+              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+            </div>
+            <div class="col-xs-6">
+              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+            </div>
+            <div class="col-xs-6">
+              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+            </div>
           </div>
         </div>
       </div>
@@ -45,6 +67,10 @@ title: Community
             <img src="holder.js/100%x500/text:Map">
           </div>
         </div>
+      </div>
+      
+      <div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m22!1m12!1m3!1d5684.577773341225!2d-88.16408209916519!3d44.57065745789561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m7!1i0!3e1!4m0!4m3!3m2!1d44.5672944!2d-88.1646507!5e0!3m2!1sen!2sus!4v1417532961042" width="100%" height="350" frameborder="0" style="border:0"></iframe>
       </div>
       
     </div>
