@@ -36,7 +36,7 @@ title: Apartments
           </div>
           <div class="col-md-6">
             <h1>Imagine yourself in a stunning Hobart Crossing apartment home.</h1>
-            <div class="row">
+            <div class="row gallery">
               <div class="col-xs-6">
                 <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Photo"></a>
               </div>
@@ -62,12 +62,12 @@ title: Apartments
       
       <div class="card">
         <h1>Choose the floor plan that best suits your&nbsp;needs.</h1>
-        <div class="row">
+        <div class="row gallery-2">
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/centennial-centre.jpg" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/community-header.jpg" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
           </div>
           <div class="col-md-3 col-xs-6">
             <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>

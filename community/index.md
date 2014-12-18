@@ -13,35 +13,36 @@ title: Community
     <div class="col-md-12">
       <div class="card">
         <div class="row">
-          <div class="col-md-12">
-            <h1>Get to know Centennial Centre at&nbsp;Hobart&nbsp;&#8230;</h1>
-            <img src="{{ site.baseurl }}/img/centennial-centre.jpg">
-          </div>
           <div class="col-md-6">
+            <h1>Get to know Centennial Centre at&nbsp;Hobart&nbsp;&#8230;</h1>
+            
             <p><a href="http://buildinhobart.com">Centennial Centre</a> is the area’s newest premier luxury community. At Centennial Centre a three-acre village green, lush landscaping and pedestrian-friendly pathways will connect homes, stores, restaurants, professional services and more! </p>
             
             <p>Centennial Centre is the ideal mid-point to join community activities in Green Bay, Hobart or Pulaski. Attend events at the Weidner Center on the UWGB campus &#8230; take part in Village of Hobart activities &#8230; or join a community or professional organization in Pulaski—it’s all close to Centennial Centre.  Additionally, Centennial Centre is located in the well-regarded Pulaski school district and daycare is nearby. </p>
             
             <p>With a new diamond interchange at its eastern side and improved access to STH 29, Centennial Centre is the most conveniently located development west of Green Bay.</p>
           </div>
-          <div class="col-md-6">
-            <div class="col-xs-6">
-              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+          <div class="col-md-6 gallery">
+            <div class="col-xs-12">
+              <a href="{{ site.baseurl }}/img/centennial-centre.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+              <a href="{{ site.baseurl }}/img/outdoor-market.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/outdoor-market.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+              <a href="{{ site.baseurl }}/img/village-green.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/village-green-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+              <a href="{{ site.baseurl }}/img/trail-map.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/trail-map.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+              <a href="{{ site.baseurl }}/img/green-space.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/green-space.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="#" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+              <a href="{{ site.baseurl }}/img/aerial-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/aerial-1.jpg"></a>
+            </div>
+            <div class="col-xs-6">
+              <a href="{{ site.baseurl }}/img/aerial-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/aerial-2.jpg"></a>
             </div>
           </div>
         </div>
