@@ -24,25 +24,25 @@ title: Community
           </div>
           <div class="col-md-6 gallery">
             <div class="col-xs-12">
-              <a href="{{ site.baseurl }}/img/centennial-centre.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre.jpg"></a>
+              <a href="{{ site.baseurl }}/img/centennial-centre.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="{{ site.baseurl }}/img/outdoor-market.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/outdoor-market.jpg"></a>
+              <a href="{{ site.baseurl }}/img/outdoor-market.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/outdoor-market-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
               <a href="{{ site.baseurl }}/img/village-green.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/village-green-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="{{ site.baseurl }}/img/trail-map.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/trail-map.jpg"></a>
+              <a href="{{ site.baseurl }}/img/trail-map.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/trail-map-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="{{ site.baseurl }}/img/green-space.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/green-space.jpg"></a>
+              <a href="{{ site.baseurl }}/img/green-space.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/green-space-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="{{ site.baseurl }}/img/aerial-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/aerial-1.jpg"></a>
+              <a href="{{ site.baseurl }}/img/aerial-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/aerial-1-thumbnail.jpg"></a>
             </div>
             <div class="col-xs-6">
-              <a href="{{ site.baseurl }}/img/aerial-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/aerial-2.jpg"></a>
+              <a href="{{ site.baseurl }}/img/aerial-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/aerial-2-thumbnail.jpg"></a>
             </div>
           </div>
         </div>
