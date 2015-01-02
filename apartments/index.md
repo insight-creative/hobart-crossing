@@ -64,40 +64,46 @@ title: Apartments
         <h1>Choose the floor plan that best suits your&nbsp;needs.</h1>
         <div class="row gallery-2">
           <div class="col-md-3 col-xs-6">
-            <a href="{{ site.baseurl }}/img/centennial-centre.jpg" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-a.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="{{ site.baseurl }}/img/community-header.jpg" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-b.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-b.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-c.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-c.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-d.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-d.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-e.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-e.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-f.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-f.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-g.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-g.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-h.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-h.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-j.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-j.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-k.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-k.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-ki.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-ki.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:Floor Plan"></a>
+            <a href="{{ site.baseurl }}/img/unit-type-l.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-l.gif"></a>
+          </div>
+          <div class="col-md-3 col-xs-6">
+            <a href="{{ site.baseurl }}/img/first-floor-plan-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-a.gif"></a>
+          </div>
+          <div class="col-md-3 col-xs-6">
+            <a href="{{ site.baseurl }}/img/first-floor-plan-b.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-b.gif"></a>
           </div>
         </div>
       </div>
