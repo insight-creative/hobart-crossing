@@ -78,7 +78,8 @@ a {
   border-bottom: 2px solid #6b3f22;
   transition: all .3s;
 }
-a:hover {
+a:hover,
+a:focus {
   color: #B6A895;
   border-bottom: 2px solid #B6A895;
   text-decoration: none;
