@@ -45,7 +45,7 @@ title: Contact
         <p>Pre-leasing begins January 2015 for occupancy August 2015.</p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;info@HobartCrossing.com</a>
+          <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;leasing@HobartCrossing.com</a>
         </div>
       </div>
     </div>

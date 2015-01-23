@@ -24,7 +24,7 @@ layout: default
     <div class="col-md-6">
       <div class="card">
         <div class="card-header">
-          <img src="holder.js/100%x150/text:Photo">
+          <img src="{{ site.baseurl }}/img/apartments-header.jpg">
         </div>
         <h1>Apartments</h1>
         <p>Experience life with more upscale amenities, serene surroundings and convenience than ever before. Each Hobart Crossing apartment home brings a refined urban feel to the area.</p>
@@ -69,7 +69,7 @@ layout: default
         <h1>Contact Us</h1>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;info@HobartCrossing.com</a>
+          <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;leasing@HobartCrossing.com</a>
         </div>
       </div>
     </div>
