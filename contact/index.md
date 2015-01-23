@@ -9,21 +9,27 @@ title: Contact
       
       <div class="card">
         <h1>Contact Us</h1>
-        <form role="form">
-          <div class="form-group">
-            <label for="exampleInputEmail1">Name</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
-          </div>
-          <div class="form-group">
-            <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-          </div>
-          <div class="form-group">
-            <label>Message</label>
-            <textarea class="form-control" placeholder="Enter message" rows="3"></textarea>
-          </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        <p>Fill out this form and we will get back to you soon!</p>
+        <div id="wufoo-zq72h8y12juxym">
+        Fill out my <a href="https://alliancewi.wufoo.com/forms/zq72h8y12juxym/">online form</a>.
+        </div>
+        <script type="text/javascript">var zq72h8y12juxym;(function(d, t) {
+        var s = d.createElement(t), options = {
+        'userName':'alliancewi',
+        'formHash':'zq72h8y12juxym',
+        'autoResize':true,
+        'height':'1285',
+        'async':true,
+        'host':'wufoo.com',
+        'header':'hide',
+        'ssl':true};
+        s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+        s.onload = s.onreadystatechange = function() {
+        var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+        try { zq72h8y12juxym = new WufooForm();zq72h8y12juxym.initialize(options);zq72h8y12juxym.display(); } catch (e) {}};
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+        })(document, 'script');</script>
+        
       </div>
 
       <div>

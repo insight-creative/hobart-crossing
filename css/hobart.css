@@ -251,7 +251,7 @@ hr {
 .card-button {
   display: block;
   font-size: .85rem;
-  background-color: #B6A895;
+  background-color: #6b3f22;
   border-top: 1px solid #FFF;
   color: #FFF;
   padding-left: 40px;
@@ -287,7 +287,7 @@ hr {
   border-bottom: 0px;
 }
 .card-button-group a:hover {
-  background-color: #6b3f22;
+  background-color: #B6A895;
   color: #FFF;
   text-decoration: none;
 }
