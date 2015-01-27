@@ -17,7 +17,7 @@ title: Community
           <div class="col-md-6">
             <h1>Location, Location, Location!</h1>
             
-            <p>Ideally situated just minutes west of <a href="http://greenbaywi.gov/">Green Bay</a> in <em>Centennial Centre at Hobart</em>, adjacent to Highway 29 with quick access to US41, Hobart Crossing offers gracious living close to all the fun and services you need ...</p>
+            <p>Ideally situated just minutes west of <a href="http://greenbaywi.gov/">Green Bay</a> in <em>Centennial Centre at Hobart</em>, adjacent to Highway 29 with quick access to US41, Hobart Crossing offers gracious living close to all the fun and services you need&nbsp;...</p>
             
             <ul>
               <li>Just 8 miles from Austin Straubel International Airport</li>
@@ -28,8 +28,8 @@ title: Community
               <li>Close to amazing golf at Thornberry Creek, Brown County, Village Green and Oneida Country Club!</li>
             </ul>
           </div>
-          <div class="col-md-6">
-            <img src="holder.js/100%x500/text:Map">
+          <div class="col-md-6 gallery">
+            <a href="{{ site.baseurl }}/img/area-map.jpg" class="thumbnail"> <img src="{{ site.baseurl }}/img/area-map.jpg"></a>
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@ title: Community
             <p>With a new diamond interchange at its eastern side and improved access to STH 29, <em>Centennial Centre</em> is the most conveniently located development west of Green Bay.</p>
             
           </div>
-          <div class="col-md-6 gallery">
+          <div class="col-md-6 gallery-2">
             <div class="col-xs-12">
               <a href="{{ site.baseurl }}/img/centennial-centre.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/centennial-centre-thumbnail.jpg"></a>
             </div>

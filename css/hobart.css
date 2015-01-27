@@ -312,6 +312,7 @@ a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
   border-color: #B6A895;
+  cursor: zoom-in;
 }
 .thumbnail:hover {
   border-bottom: 1px solid #ddd;
