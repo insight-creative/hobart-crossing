@@ -17,20 +17,24 @@ title: Apartments
           <div class="col-md-6">
             <h1>Hobart Crossing Apartment Homes Offer&nbsp;More.</h1>
             
-            <p>Each Hobart Crossing apartment home features upscale amenities and a refined urban feel.</p>
+            <p>Each Hobart Crossing apartment home features luxury amenities and a refined, contemporary feel.</p>
             <ul>
-              <li>12 models with 1-2 bedroom options</li>
-              <li>Well appointed with high-end cabinetry, countertops and finishes</li>
-              <li>Complete upgraded appliance package and in-unit laundry </li>
+              <li>Well appointed with high-end cabinetry, granite countertops and appealing finishes</li>
+              <li>Complete upgraded appliance package</li>
+              <li>In-unit full size washer and dryer</li> 
               <li>Private entrances (some units) and quality construction for quiet and privacy</li>
-              <li>Programmable, individual heat and air-conditioning</li>
-              <li>On-site storage lockers</li>
-              <li>Clubhouse/community room with kitchen</li>
-              <li>24-hour workout facility</li>
-              <li>Private outdoor pool</li>
-              <li>Business center</li>
+              <li>Programmable, individual gas forced air heat and central air</li>
+            </ul>
+            <p>The Hobart Crossing development also offers:</p>
+            <ul>
               <li>Elevators</li>
+              <li>Cat and dog friendly policies</li>
               <li>Underground, heated parking</li>
+              <li>On-site storage lockers</li>
+              <li>Clubroom with kitchen</li>
+              <li>24-hour fitness center with professional equipment</li>
+              <li>Private outdoor pool with lounging area, grills and an area to sunbath</li>
+              <li>Business center</li>
               <li>100% smoke free</li>
             </ul>
           </div>
@@ -63,6 +67,12 @@ title: Apartments
       <div class="card">
         <h1>Choose the floor plan that best suits your&nbsp;needs.</h1>
         <div class="row gallery-2">
+          <div class="col-md-3 col-xs-6">
+            <a href="{{ site.baseurl }}/img/first-floor-plan-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-a.gif"></a>
+          </div>
+          <div class="col-md-3 col-xs-6">
+            <a href="{{ site.baseurl }}/img/first-floor-plan-b.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-b.gif"></a>
+          </div>
           <div class="col-md-3 col-xs-6">
             <a href="{{ site.baseurl }}/img/unit-type-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-a.gif"></a>
           </div>
@@ -98,12 +108,6 @@ title: Apartments
           </div>
           <div class="col-md-3 col-xs-6">
             <a href="{{ site.baseurl }}/img/unit-type-l.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-l.gif"></a>
-          </div>
-          <div class="col-md-3 col-xs-6">
-            <a href="{{ site.baseurl }}/img/first-floor-plan-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-a.gif"></a>
-          </div>
-          <div class="col-md-3 col-xs-6">
-            <a href="{{ site.baseurl }}/img/first-floor-plan-b.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-b.gif"></a>
           </div>
         </div>
       </div>

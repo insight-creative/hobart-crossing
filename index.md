@@ -13,9 +13,10 @@ layout: default
         
         <h2>Luxury leased residences available August 2015 ...</h2>
 
-        <p>There’s an exciting new place to call home in the greater Green Bay area. Beginning August 2015 the area’s newest upscale leased residences, Hobart Crossing, will be ready for occupancy. With a convenient location, unmatched amenities and variety of floor plans, Hobart Crossing has been designed to meet the needs of young professionals or empty nesters interested in luxurious, maintenance-free <a href="{{ site.baseurl }}/apartments">apartments</a> in a beautiful environment.</p>
+        <p>There’s an exciting new place to call home in the greater Green Bay area. Beginning August 2015 the area’s newest luxury leased residences, Hobart Crossing, will be ready for occupancy. Amenities include a large outdoor pool area with grills and lounging space, roomy fitness center outfitted with professional equipment, and a spacious clubroom. Each apartment includes granite countertops, in-unit washer/dryer and upgraded appliances.</p>
 
-        <p>Take a few minutes to browse our site and see all the advantages of life at Hobart Crossing! Then <a href="{{ site.baseurl }}/contact">contact us</a> with questions or for leasing details.</p>
+        <p>Take a few minutes to browse our site and see all the advantages of life at Hobart Crossing! Then <a href="{{ site.baseurl }}/contact">contact us</a> with your questions.</p>
+        
       </div>
     </div>
   </div>
@@ -27,7 +28,7 @@ layout: default
           <img src="{{ site.baseurl }}/img/apartments-header.jpg">
         </div>
         <h1>Apartments</h1>
-        <p>Experience life with more upscale amenities, serene surroundings and convenience than ever before. Each Hobart Crossing apartment home brings a refined urban feel to the area.</p>
+        <p>Experience life with luxury amenities, serene surroundings and more convenience than ever before. Each Hobart Crossing apartment home brings a refined, contemporary feel and is directly connected to the development’s amenities.</p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/apartments">Learn more &raquo;</a>
         </div>
@@ -40,7 +41,7 @@ layout: default
           <img src="{{ site.baseurl }}/img/community-header.jpg">
         </div>
         <h1>Community</h1>
-        <p>Hobart Crossing is located in <a href="http://buildinhobart.com">Centennial Centre at Hobart</a>, a planned community bringing an upscale presence to the gorgeous countryside just minutes west of Green Bay.</p>
+        <p>Hobart Crossing is located in <em><a href="http://buildinhobart.com">Centennial Centre at Hobart</a></em>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay.</p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/community">Learn more &raquo;</a>
         </div>
