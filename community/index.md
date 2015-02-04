@@ -20,8 +20,7 @@ title: Community
             <p>Ideally situated just minutes west of <a href="http://greenbaywi.gov/">Green Bay</a> in <em>Centennial Centre at Hobart</em>, adjacent to Highway 29 with quick access to US41, Hobart Crossing offers gracious living close to all the fun and services you need&nbsp;...</p>
             
             <ul>
-              <li>Just 8 miles from Austin Straubel International Airport</li>
-              <li>Approximately 5 miles from shopping, professional services, gyms, dining options and nightlife on Lineville Road, Velp Avenue or West Mason Street</li>
+              <li>Just 13 minutes from Austin Straubel International Airport</li>
               <li>10 minutes from all the action at Lambeau Field and the Resch Center</li>
               <li>Less than 15 minutes to Bay Park Square shopping mall, downtown’s historic Broadway District, hospitals and more</li>
               <li>Just 15 minutes to UWGB and 7 minutes to NWTC</li>
@@ -39,7 +38,7 @@ title: Community
           <div class="col-md-6">
             <h1>Get to know Centennial Centre at&nbsp;Hobart&nbsp;...</h1>
             
-            <p><em><a href="http://buildinhobart.com">Centennial Centre at Hobart</a></em> is the area’s newest premier luxury community. At Centennial Centre a three-acre village green, lush landscaping and pedestrian-friendly pathways will connect homes, stores, restaurants, professional services and more!</p>
+            <p><em><a href="http://buildinhobart.com">Centennial Centre at Hobart</a></em> is the area’s newest premier luxury community. At <em>Centennial Centre</em> a three-acre village green, lush landscaping and pedestrian-friendly pathways will connect homes, stores, restaurants, professional services and more!</p>
 
             <p><em>Centennial Centre</em> is the ideal mid-point to join community activities in Green Bay, Hobart or Pulaski. Attend events at the Weidner Center on the UWGB campus ... take part in Village of Hobart activities ... or join a community or professional organization in Pulaski—it’s all close to <em>Centennial Centre</em>. Additionally, <em>Centennial Centre</em> is located in the well-regarded Pulaski school district and daycare is nearby.</p>
 

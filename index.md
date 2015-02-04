@@ -13,7 +13,7 @@ layout: default
         
         <h2>Luxury leased residences available August 2015 ...</h2>
 
-        <p>There’s an exciting new place to call home in the greater Green Bay area. Beginning August 2015 the area’s newest luxury leased residences, Hobart Crossing, will be ready for occupancy. Amenities include a large outdoor pool area with grills and lounging space, roomy fitness center outfitted with professional equipment, and a spacious clubroom. Each apartment includes granite countertops, in-unit washer/dryer and upgraded appliances.</p>
+        <p>There’s an exciting new place to call home in the greater Green Bay area. Beginning August 2015 the area’s newest luxury leased residences, Hobart Crossing, will be ready for occupancy. Amenities include a large outdoor pool area with grills and lounging space, roomy fitness center outfitted with professional equipment and a spacious clubroom. Each apartment includes granite countertops, in-unit washer/dryer and upgraded appliances.</p>
 
         <p>Take a few minutes to browse our site and see all the advantages of life at Hobart Crossing! Then <a href="{{ site.baseurl }}/contact">contact us</a> with your questions.</p>
         
@@ -56,7 +56,7 @@ layout: default
         {% for post in site.posts | limit: 1 %}
         <div class="post">
           <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.content | truncatewords: 15 }}</p><!-- weird Jekyll glitch, closing p tag required -->
+          {{ post.excerpt }}</p><!-- weird Jekyll glitch, closing p tag required -->
           <div class="card-button-group">
             <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
             <a class="card-button" href="{{ site.baseurl }}/news">See all news &raquo;</a>

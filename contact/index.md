@@ -9,7 +9,7 @@ title: Contact
       
       <div class="card">
         <h1>Contact Us</h1>
-        <p>Fill out this form and we will get back to you soon!</p>
+        <p>Complete this form and we will get back to you soon!</p>
         <div id="wufoo-zq72h8y12juxym">
         Fill out my <a href="https://alliancewi.wufoo.com/forms/zq72h8y12juxym/">online form</a>.
         </div>
@@ -41,7 +41,7 @@ title: Contact
     <div class="col-md-4">
       
       <div class="card">
-        <h1>Don't Delay—units will fill fast!</h1>
+        <h1>Don't delay—units will fill fast!</h1>
         <p>Pre-leasing begins January 2015 for occupancy August 2015.</p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>

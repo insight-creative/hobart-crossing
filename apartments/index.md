@@ -23,7 +23,7 @@ title: Apartments
               <li>Complete upgraded appliance package</li>
               <li>In-unit full size washer and dryer</li> 
               <li>Private entrances (some units) and quality construction for quiet and privacy</li>
-              <li>Programmable, individual gas forced air heat and central air</li>
+              <li>Programmable individual gas forced-air heat and central air</li>
             </ul>
             <p>The Hobart Crossing development also offers:</p>
             <ul>
