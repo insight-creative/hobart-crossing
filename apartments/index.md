@@ -71,7 +71,7 @@ title: Apartments
             <a href="{{ site.baseurl }}/img/first-floor-plan-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-a.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
-            <a href="{{ site.baseurl }}/img/first-floor-plan-b.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/first-floor-plan-b.gif"></a>
+            <a href="{{ site.baseurl }}/img/second-floor-plan.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/second-floor-plan.gif"></a>
           </div>
           <div class="col-md-3 col-xs-6">
             <a href="{{ site.baseurl }}/img/unit-type-a.gif" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-type-a.gif"></a>
