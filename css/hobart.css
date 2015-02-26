@@ -323,6 +323,19 @@ a.thumbnail.active {
 }
 
 /*
+ * Lightbox
+ */
+
+/* Make the lightbox image print at the right size */
+@media print {
+  .lightbox img {
+  	width: 100% !important;
+  	height: auto !important;
+    left: 0px !important;
+  }
+}
+
+/*
  * Form
  */
 

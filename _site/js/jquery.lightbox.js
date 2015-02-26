@@ -39,10 +39,10 @@
                 if (!plugin.lightbox) {
                     $('body').append(
                       '<div id="'+id+'" class="lightbox" style="display:none;">'+
-                      '<a href="#" class="lightbox-close lightbox-button"><span class="glyphicon glyphicon-remove"></span></a>' +
+                      '<a href="#" class="lightbox-close lightbox-button hidden-print"><span class="glyphicon glyphicon-remove"></span></a>' +
                       '<div class="lightbox-nav">'+
-                      '<a href="#" class="lightbox-previous lightbox-button"><span class="glyphicon glyphicon-chevron-left"></span></a>' +
-                      '<a href="#" class="lightbox-next lightbox-button"><span class="glyphicon glyphicon-chevron-right"></span></a>' +
+                      '<a href="#" class="lightbox-previous lightbox-button hidden-print"><span class="glyphicon glyphicon-chevron-left"></span></a>' +
+                      '<a href="#" class="lightbox-next lightbox-button"><span class="glyphicon glyphicon-chevron-right hidden-print"></span></a>' +
                       '</div>' +
                       '<div href="#" class="lightbox-caption"><p></p></div>' +
                       '</div>'
@@ -66,6 +66,8 @@
                 if(opts.blur) {
                     $("body").addClass("blurred");
                 }
+				// Hide the rest of the page from printing when the lightbox is open
+				$(".container").addClass('hidden-print');
                 $("img", plugin.lightbox).remove();
                 plugin.lightbox.fadeIn('fast').append('<span class="lightbox-loading"></span>');
 
@@ -208,6 +210,8 @@
                 $(document).off('keydown'); // Unbind all key events each time the lightbox is closed
                 $(plugin.lightbox).fadeOut('fast');
                 $('body').removeClass('blurred');
+				// Set the rest of the page to print again when the lightbox is closed
+				$('.container').removeClass('hidden-print');
             }
         };
 
