@@ -58,10 +58,16 @@ title: Apartments
                 <a href="{{ site.baseurl }}/img/pool-4.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-4.jpg"></a>
               </div>
               <div class="col-xs-6">
-                <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:More photos coming soon"></a>
+                <a href="{{ site.baseurl }}/img/common-area-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/common-area-finish-board.jpg"></a>
+                <div class="caption">
+                  <p>Common area finish board</p>
+                </div>
               </div>
               <div class="col-xs-6">
-                <a href="#" class="thumbnail"><img src="holder.js/100%x200/text:More photos coming soon"></a>
+                <a href="{{ site.baseurl }}/img/unit-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-finish-board.jpg"></a>
+                <div class="caption">
+                  <p>Unit finish board</p>
+                </div>
               </div>
             </div>
           </div>
