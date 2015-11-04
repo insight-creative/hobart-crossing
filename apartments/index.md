@@ -11,17 +11,17 @@ title: Apartments
       </div>
     </div>
     <div class="col-md-12">
-      
+
       <div class="card">
         <div class="row">
           <div class="col-md-6">
             <h1>Hobart Crossing Apartment Homes Offer&nbsp;More.</h1>
-            
+
             <p>Each Hobart Crossing apartment home features luxury amenities and a refined, contemporary feel.</p>
             <ul>
               <li>Well appointed with high-end cabinetry, granite countertops and appealing finishes</li>
               <li>Complete upgraded appliance package</li>
-              <li>In-unit full size washer and dryer</li> 
+              <li>In-unit full size washer and dryer</li>
               <li>Private entrances (some units) and quality construction for quiet and privacy</li>
               <li>Programmable individual gas forced-air heat and central air</li>
             </ul>
@@ -40,40 +40,21 @@ title: Apartments
           </div>
           <div class="col-md-6">
             <h1>Imagine yourself in a stunning Hobart Crossing apartment home.</h1>
-            <iframe src="//fast.wistia.net/embed/iframe/4wlhzfivxk" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="300"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js"></script>
-            <div class="caption">
-              <p>Digital rendering of the private outdoor pool.</p>
-            </div>
             <div class="row gallery">
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/pool-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-1.jpg"></a>
+              <div class="col-xs-12">
+                <a href="{{ site.baseurl }}/img/apartment-interior-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/apartment-interior-1.jpg"></a>
               </div>
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/pool-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-2.jpg"></a>
+              <div class="col-xs-12">
+                <a href="{{ site.baseurl }}/img/apartment-interior-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/apartment-interior-2.jpg"></a>
               </div>
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/pool-3.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-3.jpg"></a>
-              </div>
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/pool-4.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-4.jpg"></a>
-              </div>
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/common-area-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/common-area-finish-board.jpg"></a>
-                <div class="caption">
-                  <p>Common area finish board</p>
-                </div>
-              </div>
-              <div class="col-xs-6">
+              <div class="col-xs-12">
                 <a href="{{ site.baseurl }}/img/unit-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-finish-board.jpg"></a>
-                <div class="caption">
-                  <p>Unit finish board</p>
-                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      
+
       <div class="card">
         <h1>Choose the floor plan that best suits your&nbsp;needs.</h1>
         <div class="row gallery-2">
@@ -121,7 +102,7 @@ title: Apartments
           </div>
         </div>
       </div>
-      
+
     </div>
   </div>
 </div>

@@ -29,7 +29,7 @@ body {
 	line-height: 1.4;
   color: #333;
   background-color: #F4F0EB;
-  margin-top: 85px;
+  margin-top: 80px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -126,6 +126,7 @@ hr {
   }
 }
 .navbar-default .navbar-nav li a {
+	font-size: .85rem;
   color: #6b3f22;
   border-bottom: 0px;
   display: block;
@@ -141,7 +142,7 @@ hr {
   font-size: 1.15rem;
   margin-left: 30px !important;
   line-height: 40px;
-  height: 85px;
+  height: 80px;
 }
 @media (min-width: 768px) {
   .navbar-default .navbar-brand {
@@ -152,7 +153,7 @@ hr {
   background-color: #6b3f22;
 }
 .navbar-default .navbar-brand img {
-  max-width: 100px;
+  max-width: 90px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -227,9 +228,11 @@ hr {
 .header-card h1 {
   text-align: center;
   font-size: 1.75rem;
+	margin-bottom: .5rem;
 }
 .header-card h2 {
   text-align: center;
+	margin-top: 0;
   font-size: 1.35rem;
 }
 
@@ -337,6 +340,9 @@ a.thumbnail.active {
   	height: auto !important;
     left: 0px !important;
   }
+}
+.lightbox img {
+	max-width: 80%;
 }
 
 /*

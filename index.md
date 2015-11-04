@@ -2,25 +2,46 @@
 layout: default
 ---
 <div class="header-image">
-<img src="{{ site.baseurl }}/img/hobart-elevation-1.jpg">
+<img src="{{ site.baseurl }}/img/hobart-crossing-front.jpg">
 </div>
 
 <div class="container">
   <div class="row">
-    <div class="col-md-9 center-block">
+    <div class="col-md-10 center-block">
       <div class="card header-card">
         <h1>Welcome Home to Hobart Crossing!</h1>
-        
-        <h2>Luxury leased residences available August 2015 ...</h2>
 
-        <p>There’s an exciting new place to call home in the greater Green Bay area. Beginning August 2015 the area’s newest luxury leased residences, Hobart Crossing, will be ready for occupancy. Amenities include a large outdoor pool area with grills and lounging space, roomy fitness center outfitted with professional equipment and a spacious clubroom. Each apartment includes granite countertops, in-unit washer/dryer and upgraded appliances.</p>
+        <h2>Luxury leased residences</h2>
+
+        <p class="text-center">There’s an exciting new place to call home in the greater Green Bay area.</p>
+
+        <div class="row">
+          <div class="col-md-6">
+            <h3>Common Area Amenities include:</h3>
+            <ul>
+              <li>A large outdoor pool area with grills and lounging space</li>
+              <li>Fitness center outfitted with professional equipment</li>
+              <li>Spacious clubroom</li>
+              <li>Elevator</li>
+              <li>Underground Parking</li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <h3>Apartment Features include:</h3>
+            <ul>
+              <li>Granite countertops</li>
+              <li>In-unit washer/dryer</li>
+              <li>Upgraded appliances</li>
+            </ul>
+          </div>
+        </div>
 
         <p>Take a few minutes to browse our site and see all the advantages of life at Hobart Crossing! Then <a href="{{ site.baseurl }}/contact">contact us</a> with your questions.</p>
-        
+
       </div>
     </div>
   </div>
-  
+
   <div class="row">
     <div class="col-md-6">
       <div class="card">
@@ -34,7 +55,7 @@ layout: default
         </div>
       </div>
     </div>
-    
+
     <div class="col-md-6">
       <div class="card">
         <div class="card-header">
@@ -48,7 +69,7 @@ layout: default
       </div>
     </div>
   </div>
-  
+
   <div class="row">
     <div class="col-md-6">
       <div class="card">
@@ -76,4 +97,3 @@ layout: default
     </div>
   </div>
 </div>
-
