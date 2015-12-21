@@ -170,7 +170,9 @@ hr {
   margin-top: 25px;
 }
 .navbar-btn {
+	margin-top: 0;
   margin-left: 12px;
+	margin-right: 12px;
   font-weight: 600;
 }
 
@@ -237,13 +239,15 @@ hr {
  * Buttons
  */
 
-.btn-primary {
+.btn.btn-primary {
   background-color: #6b3f22;
   border-color: #6b3f22;
   border-bottom: 2px solid rgba(0,0,0,.8);
   box-shadow: 0px 2px 1px rgba(0, 81, 123, .2);
   transition: all .3s;
+	color: #FFF !important;
 }
+.navbar-default .navbar-nav li .navbar-btn:hover,
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
