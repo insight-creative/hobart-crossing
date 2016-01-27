@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="header-image">
-<img src="{{ site.baseurl }}/img/hobart-crossing-front.jpg">
+<img src="{{ site.baseurl }}/img/hobart-elevation-1.jpg">
 </div>
 
 <div class="container">
