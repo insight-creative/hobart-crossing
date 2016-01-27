@@ -302,6 +302,9 @@ hr {
   color: #FFF;
   text-decoration: none;
 }
+p.padding-card-hack {
+	height: 8px;
+}
 
 /*
  * Post
@@ -331,6 +334,9 @@ a.thumbnail.active {
 .thumbnail img {
   margin-top: 0px;
   margin-bottom: 0px;
+}
+.thunmbail {
+	height: 40px;
 }
 
 /*

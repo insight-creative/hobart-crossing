@@ -42,13 +42,10 @@ title: Apartments
             <h1>Imagine yourself in a stunning Hobart Crossing apartment home.</h1>
             <div class="row gallery">
               <div class="col-xs-12">
-                <a href="{{ site.baseurl }}/img/apartment-interior-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/apartment-interior-1.jpg"></a>
+                <a href="{{ site.baseurl }}/img/apartment-interior-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/apartment-interior1.jpg"></a>
               </div>
               <div class="col-xs-12">
-                <a href="{{ site.baseurl }}/img/apartment-interior-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/apartment-interior-2.jpg"></a>
-              </div>
-              <div class="col-xs-12">
-                <a href="{{ site.baseurl }}/img/unit-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-finish-board.jpg"></a>
+                <a href="{{ site.baseurl }}/img/apartment-interior-2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/apartment-interior2.jpg"></a>
               </div>
             </div>
           </div>

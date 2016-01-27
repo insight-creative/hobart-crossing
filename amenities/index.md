@@ -25,6 +25,18 @@ title: Amenities
             </div>
             <div class="row gallery">
               <div class="col-xs-6">
+                <a href="{{ site.baseurl }}/img/fitness1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/fitness1.jpg"></a>
+              </div>
+              <div class="col-xs-6">
+                <a href="{{ site.baseurl }}/img/fitness2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/fitness2.jpg"></a>
+              </div>
+              <div class="col-xs-6">
+                <a href="{{ site.baseurl }}/img/community-room1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/community-room1.jpg"></a>
+              </div>
+              <div class="col-xs-6">
+                <a href="{{ site.baseurl }}/img/community-room2.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/community-room2.jpg"></a>
+              </div>
+              <div class="col-xs-6">
                 <a href="{{ site.baseurl }}/img/pool-1.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-1.jpg"></a>
               </div>
               <div class="col-xs-6">
@@ -35,18 +47,6 @@ title: Amenities
               </div>
               <div class="col-xs-6">
                 <a href="{{ site.baseurl }}/img/pool-4.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/pool-4.jpg"></a>
-              </div>
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/common-area-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/common-area-finish-board.jpg"></a>
-                <div class="caption">
-                  <p>Common area finish board</p>
-                </div>
-              </div>
-              <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/unit-finish-board.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/unit-finish-board.jpg"></a>
-                <div class="caption">
-                  <p>Unit finish board</p>
-                </div>
               </div>
             </div>
           </div>
