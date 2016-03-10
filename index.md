@@ -15,29 +15,6 @@ layout: default
 
         <p class="text-center">There’s an exciting new place to call home in the greater Green Bay area.</p>
 
-        <div class="row">
-          <div class="col-md-6">
-            <h3>Common Area Amenities include:</h3>
-            <ul>
-              <li>A large outdoor pool area with grills and lounging space</li>
-              <li>Fitness center outfitted with professional equipment</li>
-              <li>Spacious clubroom</li>
-              <li>Elevator</li>
-              <li>Underground Parking</li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            <h3>Apartment Features include:</h3>
-            <ul>
-              <li>Granite countertops</li>
-              <li>In-unit washer/dryer</li>
-              <li>Upgraded appliances</li>
-            </ul>
-          </div>
-        </div>
-
-        <p>Take a few minutes to browse our site and see all the advantages of life at Hobart Crossing! Then <a href="{{ site.baseurl }}/contact">contact us</a> with your questions.</p>
-
       </div>
     </div>
   </div>
