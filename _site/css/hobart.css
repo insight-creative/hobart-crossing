@@ -52,6 +52,8 @@ img {
 p {
 	margin-top: 0;
 	margin-bottom: 1rem;
+	font-family: "ff-tisa-web-pro", serif;
+	color: #6b3f22;
 }
 h1,
 h2,
@@ -73,9 +75,13 @@ h1 {
 h2 {
   font-size: 1.1rem;
 }
+h3 {
+	font-weight: bold;
+}
 a {
   color: #6b3f22;
   border-bottom: 2px solid #6b3f22;
+	font-family: "ff-tisa-web-pro", serif;
   transition: all .3s;
 }
 a:hover,
@@ -89,6 +95,8 @@ ol li,
 ul li {
   margin-top: 0px;
 	margin-bottom: .75rem;
+	font-family: "ff-tisa-web-pro", serif;
+	color: #6b3f22;
 }
 blockquote {
   border-left: none;

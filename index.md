@@ -55,7 +55,22 @@ layout: default
         </div>
       </div>
     </div>
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-header">
+          <img src="{{ site.baseurl }}/img/amenities-header.jpg">
+        </div>
+        <h1>Amenities</h1>
+        <p>Our commmunity amenities are second to none. Commercial grade fitness equipment, a stunning club room and an amazing pool/sundeck are yours to enjoy 7 days a week.</p>
+        <p class="padding-card-hack"> </p>
+        <div class="card-button-group">
+          <a class="card-button" href="{{ site.baseurl }}/amenities">Learn more &raquo;</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
+  <div class="row">
     <div class="col-md-6">
       <div class="card">
         <div class="card-header">
@@ -69,9 +84,7 @@ layout: default
         </div>
       </div>
     </div>
-  </div>
 
-  <div class="row">
     <div class="col-md-6">
       <div class="card">
         <h1>Latest News</h1>
@@ -87,6 +100,9 @@ layout: default
         </div>
       </div>
     </div>
+  </div>
+
+  <div class="row">
     <div class="col-md-6">
       <div class="card">
         <h1>Contact Us</h1>
