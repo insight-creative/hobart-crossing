@@ -116,6 +116,9 @@ hr {
   font-style: italic;
   font-size: .9rem;
 }
+.white {
+	color: #FFF;
+}
 
 /*
  * Navigation
