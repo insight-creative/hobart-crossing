@@ -45,7 +45,7 @@ title: Contact
         <p>Currently leasing the last apartments in the 1st phase and preleasing units for the 2nd phase for June 2016 occupancy. </p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;leasing@HobartCrossing.com</a>
+          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>
