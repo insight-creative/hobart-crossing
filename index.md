@@ -7,11 +7,9 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-md-10 center-block">
+    <div class="col-md-12 center-block">
       <div class="card header-card">
-        <h1>Welcome Home to Hobart Crossing!</h1>
-
-        <h2>Luxury leased residences</h2>
+        <h1>Welcome Home to Hobart Crossing Luxury Leased Residences!</h1>
 
         <p class="text-center">There’s an exciting new place to call home in the greater Green Bay area.</p>
 
@@ -55,7 +53,6 @@ layout: default
         </div>
         <h1>Community</h1>
         <p>Hobart Crossing is located in <em><a href="http://buildinhobart.com">Centennial Centre at Hobart</a></em>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay.</p>
-        <p class="padding-card-hack"> </p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/community">Learn more &raquo; </a>
         </div>
@@ -69,9 +66,9 @@ layout: default
         <div class="post">
           <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
           {{ post.excerpt }}</p><!-- weird Jekyll glitch, closing p tag required -->
+          <p class="padding-card-hack2"> </p>
           <div class="card-button-group">
             <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
-            <a class="card-button" href="{{ site.baseurl }}/news">See all news &raquo;</a>
           </div>
           {% endfor %}
         </div>
@@ -80,12 +77,12 @@ layout: default
   </div>
 
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6 col-md-offset-3">
       <div class="card">
         <h1>Contact Us</h1>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:info@hobartcrossing.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;leasing@HobartCrossing.com</a>
+          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>
