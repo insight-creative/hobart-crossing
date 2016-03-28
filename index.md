@@ -61,24 +61,6 @@ layout: default
 
     <div class="col-md-6">
       <div class="card">
-        <h1>Latest News</h1>
-        {% for post in site.posts | limit: 1 %}
-        <div class="post">
-          <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}</p><!-- weird Jekyll glitch, closing p tag required -->
-          <p class="padding-card-hack2"> </p>
-          <div class="card-button-group">
-            <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-6 col-md-offset-3">
-      <div class="card">
         <h1>Contact Us</h1>
         <div class="card-button-group">
           <a class="card-button" href="tel:9204611900"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;<span style="color:#FFF !important;">(920) 461-1900</span></a>
@@ -86,5 +68,7 @@ layout: default
         </div>
       </div>
     </div>
+
   </div>
+
 </div>
