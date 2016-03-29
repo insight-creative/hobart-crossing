@@ -1,6 +1,6 @@
 # Site settings
 title: Hobart Crossing
-baseurl: ".."
+baseurl: ""
 
 # Build settings
 markdown: kramdown
