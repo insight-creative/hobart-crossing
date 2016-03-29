@@ -323,7 +323,7 @@ p.padding-card-hack {
 	height: 7px;
 }
 p.padding-card-hack2 {
-	height: 9px;
+	height: 9px !important;
 	margin-bottom: -1px;
 }
 
