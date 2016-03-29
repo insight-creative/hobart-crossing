@@ -53,6 +53,8 @@ layout: default
         </div>
         <h1>Community</h1>
         <p>Hobart Crossing is located in <em><a href="http://buildinhobart.com">Centennial Centre at Hobart</a></em>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay.</p>
+
+        <p class="padding-card-hack2"> </p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/community">Learn more &raquo; </a>
         </div>
@@ -60,6 +62,26 @@ layout: default
     </div>
 
     <div class="col-md-6">
+      <div class="card">
+        <div class="card-header">
+          <img src="{{ site.baseurl }}/img/news-header.jpg">
+        </div>
+        <h1>Latest News</h1>
+        <div class="post">
+          <p>Check out this great feature story from the <em>Green Bay Press Gazette</em> detailing our development plans for the future of downtown Hobart including information on the recently approved Hobart Crossing apartment complex and <em>Centennial Centre</em> community.</p>
+          <!-- weird Jekyll glitch, closing p tag required -->
+
+
+          <div class="card-button-group">
+            <a class="card-button" href="/news/">Continue reading &raquo;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-offset-3 col-md-6">
       <div class="card">
         <h1>Contact Us</h1>
         <div class="card-button-group">
