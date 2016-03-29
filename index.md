@@ -54,7 +54,7 @@ layout: default
         <h1>Community</h1>
         <p>Hobart Crossing is located in <em><a href="http://buildinhobart.com">Centennial Centre at Hobart</a></em>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay.</p>
 
-        <p class="padding-card-hack2"> </p>
+        <p class="padding-card-hack3"> </p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/community">Learn more &raquo; </a>
         </div>
