@@ -62,7 +62,7 @@ layout: default
     <div class="col-md-6">
       <div class="card">
         <h1>Latest News</h1>
-        {% for post in site.posts | limit: 1 %}
+        {% for post in site.posts limit: 1 %}
         <div class="post">
           <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
           {{ post.excerpt }}</p><!-- weird Jekyll glitch, closing p tag required -->
@@ -82,7 +82,6 @@ layout: default
         <h1>Contact Us</h1>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>

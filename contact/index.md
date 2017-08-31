@@ -9,10 +9,8 @@ title: Contact
 
       <div class="card">
         <h1>Contact Us</h1>
-        <p>Complete this form and we will get back to you soon!</p>
-        <div id="wufoo-zq72h8y12juxym">
-        Fill out my <a href="https://alliancewi.wufoo.com/forms/zq72h8y12juxym/">online form</a>.
-        </div>
+        <p>We welcome your comments, questions and feedback, please contact us today and we'll respond as quickly as we can.</p>
+        <a href="mailto:leasing@hobartcrossing.com?subject=A Message from hobartcrossing.com" type="button" class="btn btn-primary navbar-btn">Contact us today</a>        
         <script type="text/javascript">var zq72h8y12juxym;(function(d, t) {
         var s = d.createElement(t), options = {
         'userName':'alliancewi',
@@ -45,7 +43,6 @@ title: Contact
         <p>Currently leasing the last apartments in the 1st phase and preleasing units for the 2nd phase for June 2016 occupancy. </p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>
