@@ -65,7 +65,7 @@ layout: default
         {% for post in site.posts limit: 1 %}
         <div class="post">
           <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}</p><!-- weird Jekyll glitch, closing p tag required -->
+          {{ post.excerpt }}<!-- weird Jekyll glitch, closing p tag required -->
           <p class="padding-card-hack2"> </p>
           <div class="card-button-group">
             <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
